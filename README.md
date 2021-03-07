@@ -1,6 +1,6 @@
 # WebXR client for IEEE workshop
 
--- general info in preparation
+-- general info in preparation. Will follow soon!
 
 ## Development
 
